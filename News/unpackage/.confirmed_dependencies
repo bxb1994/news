@@ -1,0 +1,15 @@
+{
+	"index.html": {
+		"resources": [
+			"css/font.css",
+			"css/index.css",
+			"js/swiper.jquery.js",
+			"js/swiper.animate1.0.2.min.js",
+			"font/iconfont.woff",
+			"js/zepto.min.js",
+			"css/swiper.min.css",
+			"css/animate.css",
+			"js/index.js"
+		]
+	}
+}
